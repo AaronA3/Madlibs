@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 /**
  * Write a description of class Madlibs here.
  *
@@ -18,10 +19,8 @@ public class Madlibs
         int day = input.nextInt();
         System.out.println("Todays month (Ex: 07/xx/xxxx): ");
         int month = input.nextInt();
-        input.nextInt();
         System.out.println("Todays year (Ex: xx/xx/2022): ");
         int year = input.nextInt();
-        input.nextInt();
         System.out.print("Input awsers baced on prompt");
         
         input.nextLine();
